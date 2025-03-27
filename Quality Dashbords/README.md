@@ -44,4 +44,5 @@ The dataset comprises three tables (Quality Data, Emp Master, Auditors) linked t
 
 PowerBI-Dashboards/ └── My_project_PB/ ├── Data/ │ └── Sample Data.xlsx ├── My_project_PB.pbix └── README.md
 
-## Usage * Open the `My_project_PB.pbix` file using Power BI Desktop. * Review the visualizations to understand the quality control metrics. * Interacting with the report by clicking on various graphs is supported. ## Author * [Moshe Rechtman] - [https://www.linkedin.com/in/moshe-rechtman-08131b62]
+## Usage * Open the `My_project_PB.pbix` file using Power BI Desktop. * Review the visualizations to understand the quality control metrics. * Interacting with the report by clicking on various graphs is supported.
+ ## Author * [Moshe Rechtman] - [https://www.linkedin.com/in/moshe-rechtman-08131b62]
